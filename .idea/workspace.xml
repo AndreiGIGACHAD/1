@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lb2/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/N2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/N3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb2/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N3v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,77 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lb3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Timus.N2">
+    <configuration name="N2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb2.N2" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lb2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.N3" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timus" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timus.N2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.N2" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.N2" />
+      <item itemvalue="Application.Timus" />
+      <item itemvalue="Application.N3" />
+      <item itemvalue="Application.Timus.N2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Timus.N2" />
+        <item itemvalue="Application.N3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668426798804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1669451096881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669451096881</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
