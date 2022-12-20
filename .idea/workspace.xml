@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Timus/N10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/N2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/N2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670056176732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1670746396857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670746396857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
