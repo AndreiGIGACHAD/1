@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Timus/N11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Timus/N2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/N2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670746396857</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1671551011744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671551011744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
