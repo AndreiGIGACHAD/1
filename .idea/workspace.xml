@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Timus/N17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb3/N9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +58,11 @@
   </component>
   <component name="RunManager" selected="Application.N10">
     <configuration name="N10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.N10" />
+      <option name="MAIN_CLASS_NAME" value="Lb3.N10" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="Lb3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +84,11 @@
       </method>
     </configuration>
     <configuration name="N6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.N6" />
+      <option name="MAIN_CLASS_NAME" value="Lb3.N6" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="Lb3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="N7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.N7" />
+      <option name="MAIN_CLASS_NAME" value="Lb3.N7" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="Lb3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="N8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.N8" />
+      <option name="MAIN_CLASS_NAME" value="Lb3.N8" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="Lb3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="N9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.N9" />
+      <option name="MAIN_CLASS_NAME" value="Lb3.N9" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="Lb3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671551011744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1671723455346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671723455346</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
