@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lb5/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/N2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/N3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb5/N6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673256554203</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial commit">
+      <created>1673265707995</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673265707995</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
