@@ -1,31 +1,25 @@
 package Lb4;
 
-
-public class N1 {
+public class N2 {
     public static void main(String[] args) {
 
-        int y = 11;
+        int y = 15;
 
         int i;
 
         int j;
 
-        int x;
+        int x=0;
 
         for (i = 1 ; i <= y; i++){
             System.out.print("номер строки" + i + " ");
-            x = 0;
 
-            for (j = 0; j < 23; j++){
+            for (j = 0; j <=x; j++){
 
                 System.out.print("#");
-
-                x = x + 1;
             }
-            System.out.println(" " + "Количество символов" + x);
+            x = x + 1;
+            System.out.println( " " + "Количество символов" + x);
         }
     }
-
-
-
 }
