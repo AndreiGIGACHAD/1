@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit" />
+    <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Lb7/N2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/subClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/subClassTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/superClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb7/superClassTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_3/FirstSupClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_3/N3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_3/SecondSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_3/ThirdSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_5/FirstSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_5/FirstSudClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_5/N5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7_5/SecondSubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lb7/N1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb7/N1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -42,20 +60,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/1&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lb7" />
       <recent name="Lb3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab6_08_01">
-    <configuration name="Lab6_08_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb6.Lab6_08_01" />
+  <component name="RunManager" selected="Application.N5">
+    <configuration name="Lb7.N2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.N2" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb6.*" />
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lb6.N2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb6.N2" />
+    <configuration name="Lb7.N3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.N3" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb6.*" />
+          <option name="PATTERN" value="Lb7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb7.N1" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,24 +127,11 @@
       </method>
     </configuration>
     <configuration name="N3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb6.N3" />
+      <option name="MAIN_CLASS_NAME" value="N7_3.N3" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb6.N4" />
-      <module name="Lab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lb6.*" />
+          <option name="PATTERN" value="N7_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +140,11 @@
       </method>
     </configuration>
     <configuration name="N5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb6.N5" />
+      <option name="MAIN_CLASS_NAME" value="N7_5.N5" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb6.*" />
+          <option name="PATTERN" value="N7_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +168,19 @@
     <list>
       <item itemvalue="Application.N2" />
       <item itemvalue="Application.Timus" />
-      <item itemvalue="Application.Lab6_08_01" />
-      <item itemvalue="Application.Lb6.N2" />
-      <item itemvalue="Application.N3" />
-      <item itemvalue="Application.N4" />
+      <item itemvalue="Application.Lb7.N2" />
+      <item itemvalue="Application.Lb7.N3" />
       <item itemvalue="Application.N5" />
+      <item itemvalue="Application.N1" />
+      <item itemvalue="Application.N3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab6_08_01" />
-        <item itemvalue="Application.Lb6.N2" />
-        <item itemvalue="Application.N3" />
-        <item itemvalue="Application.N4" />
         <item itemvalue="Application.N5" />
+        <item itemvalue="Application.N3" />
+        <item itemvalue="Application.Lb7.N2" />
+        <item itemvalue="Application.Lb7.N3" />
+        <item itemvalue="Application.N1" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673366477458</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="initial commit">
+      <created>1673367025302</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673367025302</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
