@@ -10,7 +10,7 @@ public class N4 {
         for(int i=0; i<n; i++)
             w[i] = in.nextInt();
 
-        int best = Integer.MAX_VALUE;
+        int b = Integer.MAX_VALUE;
         for(int i=0; i<Math.pow(2,n); i++) {
             int w1 = 0;
             int w2 = 0;
@@ -19,9 +19,9 @@ public class N4 {
                     w1+=w[j];
                 else w2+=w[j];
             }
-            if(Math.abs(w1-w2) < best)
-                best = Math.abs(w1-w2);
+            if(Math.abs(w1-w2) < b)
+                b = Math.abs(w1-w2);
         }
-        System.out.println(best);
+        System.out.println(b);
     }
 }
