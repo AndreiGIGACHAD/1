@@ -1,0 +1,41 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,13 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N10.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N4.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N5.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N6.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N7.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N8.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lb3/N9.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Timus/N22.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Timus/N23.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Timus/N24.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -218,7 +214,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1671723455346</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="initial commit">
++      <created>1673076406556</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1673076406556</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
