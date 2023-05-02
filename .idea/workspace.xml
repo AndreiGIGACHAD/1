@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Timus/N24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb9/Lb9_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +85,7 @@
       <recent name="Lb3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.N28">
+  <component name="RunManager" selected="Application.Lb9">
     <configuration name="Lb8_3.N1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lb8_3.N1" />
       <module name="Lab" />
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb8_3.Main" />
+    <configuration name="Lb9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb9.Lb9" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb8_3.*" />
+          <option name="PATTERN" value="Lb9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +187,19 @@
     <list>
       <item itemvalue="Application.N2" />
       <item itemvalue="Application.Timus" />
+      <item itemvalue="Application.Lb9" />
       <item itemvalue="Application.N28" />
       <item itemvalue="Application.Lb8_3.N1" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.a" />
       <item itemvalue="Application.N1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lb9" />
         <item itemvalue="Application.N28" />
         <item itemvalue="Application.Lb8_3.N1" />
         <item itemvalue="Application.a" />
         <item itemvalue="Application.N1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674495778314</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="initial commit">
+      <created>1682680866145</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682680866145</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
