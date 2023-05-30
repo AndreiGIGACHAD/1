@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Lb12/N10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb12/N5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb12/N6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb12/N7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb12/N8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb12/N9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/FigureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/FigureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/KeyboardObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/KeyboardObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685450744710</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="initial commit">
+      <created>1685467881902</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1685467881902</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
