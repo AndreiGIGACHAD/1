@@ -1,4 +1,4 @@
-package com.javarush.test.level22.lesson18.big01;
+package Tetris;
 
 import java.awt.event.KeyEvent;
 
@@ -15,22 +15,22 @@ public class Tetris {
         figure = null;
     }
     /**
-     * Геттер переменной field.
+     *
      */
     public Field getField()
     {
         return field;
     }
     /**
-     * Геттер переменной figure.
+     *
      */
     public Figure getFigure()
     {
         return figure;
     }
     /**
-     *  Основной цикл программы.
-     *  Тут происходят все важные действия
+     *
+     *
      */
     public void run() throws Exception
     {
@@ -39,7 +39,7 @@ public class Tetris {
 
 
         isGameOver = false;
-        //создаем первую фигурку посередине сверху: x - половина ширины, y - 0.
+
         figure = FigureFactory.createRandomFigure(field.getWidth() / 2, 0);
 
         //пока игра не окончена

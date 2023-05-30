@@ -1,4 +1,4 @@
-package com.javarush.test.level22.lesson18.big01;
+package Tetris;
 
 import javax.swing.*;
 import java.awt.*;

@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lb10/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb10/N2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/FigureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/FigureFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/KeyboardObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/KeyboardObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/test/level22/lesson18/big01/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,20 +79,7 @@
       <recent name="Lb3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tetris">
-    <configuration name="Lb12.N1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb12.N1" />
-      <module name="Lab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lb12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tetris.Tetris">
     <configuration name="Lb13.N2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lb13.N2" />
       <module name="Lab" />
@@ -155,6 +145,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tetris.Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tetris.Tetris" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Timus" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Timus" />
       <module name="Lab" />
@@ -171,19 +174,19 @@
     <list>
       <item itemvalue="Application.N2" />
       <item itemvalue="Application.Timus" />
+      <item itemvalue="Application.Tetris.Tetris" />
       <item itemvalue="Application.Tetris" />
       <item itemvalue="Application.Lb13.N2" />
       <item itemvalue="Application.N1" />
       <item itemvalue="Application.N3" />
-      <item itemvalue="Application.Lb12.N1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tetris.Tetris" />
         <item itemvalue="Application.Tetris" />
         <item itemvalue="Application.N3" />
         <item itemvalue="Application.Lb13.N2" />
         <item itemvalue="Application.N1" />
-        <item itemvalue="Application.Lb12.N1" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685445440755</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="initial commit">
+      <created>1685450744710</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1685450744710</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
