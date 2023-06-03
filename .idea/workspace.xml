@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lb13/N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb13/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris2/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris2/Tetris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/N40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/model/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/model/Response.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/src/main/java/com/example23/demo_test/DemoTestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_test/src/test/java/com/example23/demo_test/DemoTestApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lb10/N1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb10/N1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lb10/N2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb10/N2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tetris/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
@@ -63,21 +78,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/1&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/1/spring",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "CodeWithMe"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Tetris2" />
@@ -181,11 +196,11 @@
     <list>
       <item itemvalue="Application.N2" />
       <item itemvalue="Application.Timus" />
-      <item itemvalue="Application.Tetris2.Tetris" />
       <item itemvalue="Application.Lb10.N2" />
-      <item itemvalue="Application.Tetris.Tetris" />
-      <item itemvalue="Application.Tetris" />
       <item itemvalue="Application.N3" />
+      <item itemvalue="Application.Tetris2.Tetris" />
+      <item itemvalue="Application.Tetris" />
+      <item itemvalue="Application.Tetris.Tetris" />
     </list>
     <recent_temporary>
       <list>
@@ -374,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685469629095</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="initial commit">
+      <created>1685802606865</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685802606865</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

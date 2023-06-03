@@ -14,24 +14,17 @@ public class Tetris {
         field = new Field(width, height);
         figure = null;
     }
-    /**
-     *
-     */
+
     public Field getField()
     {
         return field;
     }
-    /**
-     *
-     */
+
     public Figure getFigure()
     {
         return figure;
     }
-    /**
-     *
-     *
-     */
+
     public void run() throws Exception
     {
         KeyboardObserver keyboardObserver = new KeyboardObserver();
