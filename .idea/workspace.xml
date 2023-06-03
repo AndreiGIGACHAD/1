@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lb12/N10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb12/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb12/N6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb12/N7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb12/N8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lb12/N9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb13/N4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lb13/N5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris2/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris2/Tetris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/N40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lb10/N1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb10/N1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lb10/N2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb10/N2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tetris/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,31 +80,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tetris2" />
       <recent name="Lb8_2" />
       <recent name="Lb7" />
       <recent name="Lb3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tetris.Tetris">
-    <configuration name="Lb13.N2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb13.N2" />
+  <component name="RunManager" selected="Application.Tetris2.Tetris">
+    <configuration name="Lb10.N2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lb10.N2" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lb13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lb13.N1" />
-      <module name="Lab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lb13.*" />
+          <option name="PATTERN" value="Lb10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tetris2.Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tetris2.Tetris" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tetris2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tetris.Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tetris.Tetris" />
       <module name="Lab" />
@@ -175,19 +181,19 @@
     <list>
       <item itemvalue="Application.N2" />
       <item itemvalue="Application.Timus" />
+      <item itemvalue="Application.Tetris2.Tetris" />
+      <item itemvalue="Application.Lb10.N2" />
       <item itemvalue="Application.Tetris.Tetris" />
       <item itemvalue="Application.Tetris" />
-      <item itemvalue="Application.Lb13.N2" />
-      <item itemvalue="Application.N1" />
       <item itemvalue="Application.N3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tetris2.Tetris" />
         <item itemvalue="Application.Tetris.Tetris" />
+        <item itemvalue="Application.Lb10.N2" />
         <item itemvalue="Application.Tetris" />
         <item itemvalue="Application.N3" />
-        <item itemvalue="Application.Lb13.N2" />
-        <item itemvalue="Application.N1" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685467881902</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="initial commit">
+      <created>1685469629095</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1685469629095</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,6 +391,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Timus/N40.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
