@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/spring/src/main/java/service/ModifySystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/main/java/service/ModifyUid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/main/java/service/MyModifyService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
