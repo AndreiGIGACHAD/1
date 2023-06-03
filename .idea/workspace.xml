@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862d6d38-4723-43fa-8a75-a443b8b78749" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/spring/src/main/java/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/main/java/model/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/main/java/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/service/ModifySystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/service/ModifyUid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/service/MyModifyService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/src/main/java/com/example23/demo_test/DemoTestApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test/src/test/java/com/example23/demo_test/DemoTestApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lb10/N1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb10/N1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lb10/N2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lb10/N2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tetris/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
