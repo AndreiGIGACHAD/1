@@ -181,7 +181,7 @@ public class Board extends JPanel {
             curPiece.setShape(Shape.Tetrominoe.NoShape);
             timer.stop();
 
-            var msg = String.format("Игра окончена. Score: %d", numLinesRemoved);
+            var msg = String.format("Игра окончена. Счёт: %d", numLinesRemoved);
             statusbar.setText(msg);
         }
     }
